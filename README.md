@@ -1,13 +1,13 @@
-<div align="center">
+<div align="center" style="background: url('https://media.giphy.com/media/3o7aD4p4B8TXg7I0C0/giphy.gif') no-repeat center center; background-size: cover; padding: 40px 20px; border-radius: 15px;">
   <!-- Hero Section -->
-  <h1>Hi 👋, I'm Ramish Anan Kafi</h1>
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="Coding Cat"/>
+  <h1 style="color:#00ffae; text-shadow: 2px 2px #000000;">Hi 👋, I'm Ramish Anan Kafi</h1>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" alt="Coding Cat"/>
   
   <!-- Typing Animation -->
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00ffae&width=500&lines=Full-Stack+Developer;Cloud+%26+AI+Explorer;Open-Source+Contributor" alt="Typing Animation"/>
-
-  <h3>Architecting enterprise-grade applications, cloud-native systems, and AI pipelines.</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00ffff&width=500&lines=Full-Stack+Developer;Cloud+%26+AI+Explorer;Open-Source+Contributor" alt="Typing Animation"/>
+  
+  <h3 style="color:#00ffae; text-shadow: 1px 1px #000000;">Architecting enterprise-grade applications, cloud-native systems, and AI pipelines.</h3>
 </div>
 
 <p align="center">
@@ -103,10 +103,10 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kafi003&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kafi003&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kafi003&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kafi003&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kafi003&theme=github_dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kafi003&theme=radical&hide_border=true" alt="GitHub Streak"/>
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kafi003&theme=github-dark&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
@@ -125,4 +125,3 @@
 
 I am open to **full-stack, cloud, AI, and open-source projects**.  
 Reach me via **LinkedIn, GitHub, or Email** for professional collaborations.
-
