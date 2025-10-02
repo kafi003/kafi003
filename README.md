@@ -1,17 +1,22 @@
-<div align="center" style="padding:50px; border-radius:20px; background: linear-gradient(135deg,#0f2027,#203a43,#2c5364); color:#c9d1d9;">
+<div align="center">
 
-  <!-- Profile Photo -->
-  <img src="https://avatars.githubusercontent.com/u/your-avatar-id?v=4" alt="Ramish Anan Kafi" width="150" height="150" style="border-radius:50%; border:3px solid #00ffae; margin-bottom:20px;"/>
+  <!-- Avatar -->
+  <img src="https://avatars.githubusercontent.com/kafi003?v=4" alt="Ramish Anan Kafi" width="150" height="150" style="border-radius:50%; border:3px solid #00ffae; margin-bottom:20px;"/>
 
-  <!-- Hero Section -->
+  <!-- Hero -->
   <h1 style="color:#00ffff;">Hi 👋, I'm Ramish Anan Kafi</h1>
-  <h3 style="color:#00ffae; font-weight: bold;">💻 Full-Stack Developer | Cloud Architect | AI Enthusiast</h3>
+  <h3 style="color:#00ffae; font-weight:bold;">💻 Full-Stack Developer | Cloud Architect | AI Enthusiast</h3>
+
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00ffae&width=500&lines=Full-Stack+Developer;Cloud+%26+AI+Explorer;Open-Source+Contributor" alt="Typing Animation"/>
+
+  <!-- Description -->
   <p style="font-size:16px; max-width:700px; text-align:center; margin-top:15px;">
-    I design and build **enterprise-grade applications, cloud-native systems, and AI pipelines**.  
-    Focused on **scalable, efficient, and innovative solutions** to solve real-world problems.
+    I design and build <b>enterprise-grade applications, cloud-native systems, and AI pipelines</b>.  
+    Focused on <b>scalable, efficient, and innovative solutions</b> to solve real-world problems.
   </p>
 
-  <!-- Contact & Socials -->
+  <!-- Social Links -->
   <p style="margin-top:20px;">
     <a href="https://linkedin.com/in/ramishanan-kafi" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -26,6 +31,7 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
   </p>
+
 </div>
 
 ---
