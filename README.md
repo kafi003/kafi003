@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ramish Anan Kafi
 
-![Happy October Cat](https://cataas.com/cat/says/Happy%20October?size=50&color=00ffae)  
+![Happy October Cat](https://cataas.com/cat/gif/says/Happy%20October?size=50&color=00ffae)  
 
 ### 💻 Full-Stack Developer | Cloud Architect | AI Enthusiast
 
