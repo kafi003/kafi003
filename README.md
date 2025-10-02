@@ -1,6 +1,9 @@
-<div align="center" style="background: url('https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif') no-repeat center center; background-size: cover; padding: 50px 20px; border-radius: 15px; color:#00ffae;">
+<div align="center" style="background: url('https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif') no-repeat center center; background-size: cover; padding: 50px 20px; border-radius: 15px; color:#00ffae; animation: backgroundAnimation 20s linear infinite;">
   <!-- Hero Section -->
-  <h1 style="text-shadow: 2px 2px #000000;">Hi 👋, I'm Ramish Anan Kafi</h1>
+  <h1 style="font-size:3em; background: linear-gradient(90deg, #00ffff, #00ffae, #ff00ff); -webkit-background-clip: text; color: transparent; animation: gradientAnimation 3s infinite alternate;">
+    Hi 👋, I'm Ramish Anan Kafi
+  </h1>
+  
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" alt="Coding Cat"/>
   
   <!-- Typing Animation -->
@@ -53,9 +56,6 @@
       <a href="https://github.com/kafi003/your-repo-link" target="_blank"><strong>View on GitHub →</strong></a>
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td width="50%" valign="top">
       <h3>📱 Cross-Platform Mobile Apps</h3>
@@ -82,20 +82,20 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" width="40" height="40"/>
 </div>
 
 ---
@@ -125,3 +125,11 @@
 
 I am open to **full-stack, cloud, AI, and open-source projects**.  
 Reach me via **LinkedIn, GitHub, or Email** for professional collaborations.
+
+<style>
+@keyframes gradientAnimation {
+  0% { background-position: 0% }
+  50% { background-position: 100% }
+  100% { background-position: 0% }
+}
+</style>
