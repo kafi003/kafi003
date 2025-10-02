@@ -1,16 +1,16 @@
-<div align="center" style="background: url('https://media.giphy.com/media/3o7aD4p4B8TXg7I0C0/giphy.gif') no-repeat center center; background-size: cover; padding: 40px 20px; border-radius: 15px;">
+<div align="center" style="background: url('https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif') no-repeat center center; background-size: cover; padding: 50px 20px; border-radius: 15px; color:#00ffae;">
   <!-- Hero Section -->
-  <h1 style="color:#00ffae; text-shadow: 2px 2px #000000;">Hi 👋, I'm Ramish Anan Kafi</h1>
+  <h1 style="text-shadow: 2px 2px #000000;">Hi 👋, I'm Ramish Anan Kafi</h1>
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" alt="Coding Cat"/>
   
   <!-- Typing Animation -->
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00ffff&width=500&lines=Full-Stack+Developer;Cloud+%26+AI+Explorer;Open-Source+Contributor" alt="Typing Animation"/>
   
-  <h3 style="color:#00ffae; text-shadow: 1px 1px #000000;">Architecting enterprise-grade applications, cloud-native systems, and AI pipelines.</h3>
+  <h3 style="text-shadow: 1px 1px #000000;">Architecting enterprise-grade applications, cloud-native systems, and AI pipelines.</h3>
 </div>
 
-<p align="center">
+<p align="center" style="margin-top:15px;">
   <!-- Social Links -->
   <a href="https://linkedin.com/in/ramishanan-kafi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -79,23 +79,23 @@
 
 ---
 
-## 🛠️ Professional Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" alt="Django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="Flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" alt="Kotlin" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" alt="PyTorch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" width="40"/>
 </div>
 
 ---
@@ -103,12 +103,12 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kafi003&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kafi003&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kafi003&show_icons=true&theme=radical&count_private=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kafi003&layout=compact&theme=radical&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kafi003&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kafi003&theme=radical&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kafi003&theme=github-dark&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kafi003&theme=github-dark&hide_border=true"/>
 </div>
 
 ---
