@@ -1,15 +1,15 @@
-# Hi 👋, I'm Ramish Anan Kafi
+# 👋 Hi, I'm Ramish Anan Kafi
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00ffae&width=500&lines=Full-Stack+Developer;Cloud+%26+AI+Explorer;Open-Source+Contributor)
+![Coding Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
-![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+### 💻 Full-Stack Developer | Cloud Architect | AI Enthusiast
 
 I design and build **enterprise-grade applications, cloud-native systems, and AI pipelines**.  
 Focused on **scalable, efficient, and innovative solutions** to solve real-world problems.
 
 ---
 
-## 📫 Connect with Me
+### 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramishanan-kafi)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
@@ -18,72 +18,54 @@ Focused on **scalable, efficient, and innovative solutions** to solve real-world
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-### 🌐 Web Dashboard
+**🌐 Web Dashboard**  
 Real-time React dashboard with Node.js & MongoDB backend for enterprise-scale applications.  
-[View on GitHub](https://github.com/kafi003/your-repo-link)
+[View on GitHub](https://github.com/kafi003/your-repo-link)  
 
-**Tech Stack:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### 🤖 AI Recommendation Engine
+**🤖 AI Recommendation Engine**  
 Collaborative filtering engine for personalized content using Python, PyTorch, and AWS.  
-[View on GitHub](https://github.com/kafi003/your-repo-link)
+[View on GitHub](https://github.com/kafi003/your-repo-link)  
 
-**Tech Stack:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-### 📱 Cross-Platform Mobile Apps
+**📱 Cross-Platform Mobile Apps**  
 Flutter & Kotlin apps with clean UI, API integration, and multi-platform deployment.  
-[View on GitHub](https://github.com/kafi003/flutter-experiments)
+[View on GitHub](https://github.com/kafi003/flutter-experiments)  
 
-**Tech Stack:**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
----
-
-### 🌟 Open-Source Contributions
-Active contributions to cloud-native, AI, and web projects.  
+**🌟 Open-Source Contributions**  
+Active contributions to cloud-native, AI, and web projects. Supporting the developer community.  
 [View Contributions](https://github.com/kafi003)
 
-**Tech Stack:**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)  
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)  
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)  
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)  
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)  
+![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg)  
+![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg)  
+![Kotlin](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg)  
+![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)  
+![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)  
+![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg)  
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)  
+![PyTorch](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg)  
+![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg)  
 
 ---
 
-## 🛠️ Tech Stack
+### 🌐 GitHub Stats
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
----
-
-## 🌐 GitHub Stats
-
-![Ramish's GitHub stats](https://github-readme-stats.vercel.app/api?username=kafi003&show_icons=true&theme=radical&count_private=true&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kafi003&show_icons=true&theme=radical&count_private=true&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kafi003&layout=compact&theme=radical&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kafi003&theme=radical&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kafi003&theme=radical&hide_border=true)
 
 ---
 
-## 💡 Let's Collaborate
+### 💡 Let's Collaborate
 
 I’m open to **full-stack, cloud, and AI projects**.  
 Reach me via **LinkedIn, GitHub, or Email** for professional collaborations.
