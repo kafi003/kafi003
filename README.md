@@ -1,13 +1,18 @@
-<div align="center" style="padding: 50px; border-radius: 20px; background-color: #0d1117; color: #c9d1d9;">
+<div align="center" style="padding:50px; border-radius:20px; background: linear-gradient(135deg,#0f2027,#203a43,#2c5364); color:#c9d1d9;">
+
+  <!-- Profile Photo -->
+  <img src="https://avatars.githubusercontent.com/u/your-avatar-id?v=4" alt="Ramish Anan Kafi" width="150" height="150" style="border-radius:50%; border:3px solid #00ffae; margin-bottom:20px;"/>
+
+  <!-- Hero Section -->
   <h1 style="color:#00ffff;">Hi 👋, I'm Ramish Anan Kafi</h1>
-  <h3 style="color:#00ffae;">💻 Full-Stack Developer | Cloud Architect | AI Enthusiast</h3>
-  <p style="font-size:16px; max-width: 700px; text-align: center;">
+  <h3 style="color:#00ffae; font-weight: bold;">💻 Full-Stack Developer | Cloud Architect | AI Enthusiast</h3>
+  <p style="font-size:16px; max-width:700px; text-align:center; margin-top:15px;">
     I design and build **enterprise-grade applications, cloud-native systems, and AI pipelines**.  
-    Passionate about creating **scalable, efficient, and innovative solutions** for real-world challenges.
+    Focused on **scalable, efficient, and innovative solutions** to solve real-world problems.
   </p>
 
   <!-- Contact & Socials -->
-  <p>
+  <p style="margin-top:20px;">
     <a href="https://linkedin.com/in/ramishanan-kafi" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
@@ -33,7 +38,7 @@
 <tr>
 <td width="50%" valign="top">
 <h3 style="color:#00ffae;">🌐 Web Dashboard</h3>
-<p>Real-time React dashboard with Node.js & MongoDB backend for enterprise-grade applications.</p>
+<p>Real-time React dashboard with Node.js & MongoDB backend for enterprise-scale applications.</p>
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
